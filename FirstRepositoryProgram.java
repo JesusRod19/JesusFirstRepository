@@ -3,7 +3,7 @@ public class FirstRepositoryProgram {
         int num1 = 5;
         int num2 = 6;
 
-        int sum = num1 + num2;
+        int sum = num1 - num2; // Changed to subtraction
 
         System.out.println(sum);
     }
